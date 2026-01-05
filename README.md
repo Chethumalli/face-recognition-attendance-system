@@ -93,7 +93,7 @@ python main.py
 ✔ Register new faces first
 ✔ Train the model before marking attendance
 ✔ Use a well-lit environment for better recognition accuracy
-
+<pre>
 📁 Directory Structure
 📦 face-recognition-attendance-system
  ┣ 📂 Attendance
@@ -105,7 +105,7 @@ python main.py
  ┣ 📜 haarcascade_frontalface_default.xml
  ┣ 📜 README.md
  ┗ 📜 LICENSE
-
+</pre>
 📌 Notes
 
 🔹 Works best with consistent lighting and clear face images.
