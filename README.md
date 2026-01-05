@@ -24,15 +24,7 @@ GitHub
 📁 CSV Reports
 Attendance data is cleanly logged per day and can be opened in Excel or Google Sheets for further analysis. 
 GitHub
-
-📸 Demo Screenshots
-
-(Add your own screenshots here — sample placeholders below)
-
-🎥 Webcam face capture
-📈 Attendance table view
-🗂 CSV attendance report
-
+<pre>
 🛠️ Tech Stack
 Component	Technology
 Language	Python
@@ -40,7 +32,8 @@ GUI	Tkinter
 Computer Vision	OpenCV
 Data Storage	CSV files
 Face Model	Haar Cascade + LBPH Face Recognizer
-🚀 How It Works
+</pre>
+ 🚀 How It Works
 
 Training Dataset Creation
 
