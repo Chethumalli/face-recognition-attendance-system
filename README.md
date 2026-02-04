@@ -1,4 +1,4 @@
-📸 Face Recognition Attendance System
+### 📸 Face Recognition Attendance System
 
 An intelligent and interactive Python-based attendance system that automates the attendance process using real-time face detection and recognition. Built with a user-friendly GUI, this system captures, trains, and identifies faces to mark daily attendance accurately and efficiently. 
 GitHub
