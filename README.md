@@ -35,7 +35,6 @@ Data Storage	CSV files
 Face Model	Haar Cascade + LBPH Face Recognizer
 </pre>
 
-# -----------------------------------------------------------------------------------------------------------------
  ## 🚀 How It Works
 
 Training Dataset Creation
