@@ -3,7 +3,7 @@
 An intelligent and interactive Python-based attendance system that automates the attendance process using real-time face detection and recognition. Built with a user-friendly GUI, this system captures, trains, and identifies faces to mark daily attendance accurately and efficiently. 
 GitHub
 
-🚀 Features
+## 🚀 Features
 
 ✨ Real-Time Face Detection & Recognition
 The system uses OpenCV’s face detection and recognition techniques to capture and recognize faces from live webcam feed. 
@@ -24,8 +24,9 @@ GitHub
 📁 CSV Reports
 Attendance data is cleanly logged per day and can be opened in Excel or Google Sheets for further analysis. 
 GitHub
+
+## 🛠️ Tech Stack
 <pre>
-🛠️ Tech Stack
 Component	Technology
 Language	Python
 GUI	Tkinter
@@ -33,7 +34,7 @@ Computer Vision	OpenCV
 Data Storage	CSV files
 Face Model	Haar Cascade + LBPH Face Recognizer
 </pre>
- 🚀 How It Works
+ ## 🚀 How It Works
 
 Training Dataset Creation
 
@@ -57,7 +58,7 @@ Report Generation
 Daily CSV file is generated with full attendance details. 
 GitHub
 
-🧾 Installation
+## 🧾 Installation
 
 Clone the repository
 
